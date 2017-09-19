@@ -1,0 +1,17 @@
+body{
+  background-color: #45ADA8  ;
+}
+
+#pa1{
+  display: block;
+}
+#pa2{
+  display: block;
+}
+#ground{
+  width: 47.8%;
+  height: 145.2%;
+  top: 2%;
+  left: 24%;
+  position: absolute;
+}
